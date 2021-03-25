@@ -1,0 +1,1678 @@
+{
+     "Episodes": [
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "Pilot",
+               "Episode": 1,
+               "FirstAired": "September 24, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Big Bran Hypothesis",
+               "Episode": 2,
+               "FirstAired": "October 1, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Fuzzy Boots Corollary",
+               "Episode": 3,
+               "FirstAired": "October 8, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Luminous Fish Effect",
+               "Episode": 4,
+               "FirstAired": "October 15, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Hamburger Postulate",
+               "Episode": 5,
+               "FirstAired": "October 22, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Middle-Earth Paradigm",
+               "Episode": 6,
+               "FirstAired": "October 29, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Dumpling Paradox",
+               "Episode": 7,
+               "FirstAired": "November 5, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Grasshopper Experiment",
+               "Episode": 8,
+               "FirstAired": "November 12, 2007"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Cooper-Hofstadter Polarization",
+               "Episode": 9,
+               "FirstAired": "March 17, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Loobenfeld Decay",
+               "Episode": 10,
+               "FirstAired": "March 24, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Pancake Batter Anomaly",
+               "Episode": 11,
+               "FirstAired": "March 31, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Jerusalem Duality",
+               "Episode": 12,
+               "FirstAired": "April 14, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Bat Jar Conjecture",
+               "Episode": 13,
+               "FirstAired": "April 21, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Nerdvana Annihilation",
+               "Episode": 14,
+               "FirstAired": "April 28, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Porkchop Indeterminacy",
+               "Episode": 15,
+               "FirstAired": "May 5, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Peanut Reaction",
+               "Episode": 16,
+               "FirstAired": "May 12, 2008"
+          },
+          {
+               "Season": "Season 1: 2007-2008",
+               "Title": "The Tangerine Factor",
+               "Episode": 17,
+               "FirstAired": "May 19, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Bad Fish Paradigm",
+               "Episode": 18,
+               "FirstAired": "September 22, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Codpiece Topology",
+               "Episode": 19,
+               "FirstAired": "September 29, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Barbarian Sublimation",
+               "Episode": 20,
+               "FirstAired": "October 6, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Griffin Equivalency",
+               "Episode": 21,
+               "FirstAired": "October 13, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Euclid Alternative",
+               "Episode": 22,
+               "FirstAired": "October 20, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Cooper-Nowitzki Theorem",
+               "Episode": 23,
+               "FirstAired": "November 3, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Panty Piata Polarization",
+               "Episode": 24,
+               "FirstAired": "November 10, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Lizard-Spock Expansion",
+               "Episode": 25,
+               "FirstAired": "November 17, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The White Asparagus Triangulation",
+               "Episode": 26,
+               "FirstAired": "November 24, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Vartabedian Conundrum",
+               "Episode": 27,
+               "FirstAired": "December 8, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Bath Item Gift Hypothesis",
+               "Episode": 28,
+               "FirstAired": "December 15, 2008"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Killer Robot Instability",
+               "Episode": 29,
+               "FirstAired": "January 12, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Friendship Algorithm",
+               "Episode": 30,
+               "FirstAired": "January 19, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Financial Permeability",
+               "Episode": 31,
+               "FirstAired": "February 2, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Maternal Capacitance",
+               "Episode": 32,
+               "FirstAired": "February 9, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Cushion Saturation",
+               "Episode": 33,
+               "FirstAired": "March 2, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Terminator Decoupling",
+               "Episode": 34,
+               "FirstAired": "March 9, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Work Song Nanocluster",
+               "Episode": 35,
+               "FirstAired": "March 16, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Dead Hooker Juxtaposition",
+               "Episode": 36,
+               "FirstAired": "March 30, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Hofstadter Isotope",
+               "Episode": 37,
+               "FirstAired": "April 13, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Vegas Renormalization",
+               "Episode": 38,
+               "FirstAired": "April 27, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Classified Materials Turbulence",
+               "Episode": 39,
+               "FirstAired": "May 4, 2009"
+          },
+          {
+               "Season": "Season 2: 2008-2009",
+               "Title": "The Monopolar Expedition",
+               "Episode": 40,
+               "FirstAired": "May 11, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Electric Can Opener Fluctuation",
+               "Episode": 41,
+               "FirstAired": "September 21, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Jiminy Conjecture",
+               "Episode": 42,
+               "FirstAired": "September 28, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Gothowitz Deviation",
+               "Episode": 43,
+               "FirstAired": "October 5, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Pirate Solution",
+               "Episode": 44,
+               "FirstAired": "October 12, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Creepy Candy Coating Corollary",
+               "Episode": 45,
+               "FirstAired": "October 19, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Cornhusker Vortex",
+               "Episode": 46,
+               "FirstAired": "November 2, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Guitarist Amplification",
+               "Episode": 47,
+               "FirstAired": "November 9, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Adhesive Duck Deficiency",
+               "Episode": 48,
+               "FirstAired": "November 16, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Vengeance Formulation",
+               "Episode": 49,
+               "FirstAired": "November 23, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Gorilla Experiment",
+               "Episode": 50,
+               "FirstAired": "December 7, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Maternal Congruence",
+               "Episode": 51,
+               "FirstAired": "December 14, 2009"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Psychic Vortex",
+               "Episode": 52,
+               "FirstAired": "January 11, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Bozeman Reaction",
+               "Episode": 53,
+               "FirstAired": "January 18, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Einstein Approximation",
+               "Episode": 54,
+               "FirstAired": "February 1, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Large Hadron Collision",
+               "Episode": 55,
+               "FirstAired": "February 8, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Excelsior Acquisition",
+               "Episode": 56,
+               "FirstAired": "March 1, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Precious Fragmentation",
+               "Episode": 57,
+               "FirstAired": "March 8, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Pants Alternative",
+               "Episode": 58,
+               "FirstAired": "March 22, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Wheaton Recurrence",
+               "Episode": 59,
+               "FirstAired": "April 12, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Spaghetti Catalyst",
+               "Episode": 60,
+               "FirstAired": "May 3, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Plimpton Stimulation",
+               "Episode": 61,
+               "FirstAired": "May 10, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Staircase Implementation",
+               "Episode": 62,
+               "FirstAired": "May 17, 2010"
+          },
+          {
+               "Season": "Season 3: 2009-2010",
+               "Title": "The Lunar Excitation",
+               "Episode": 63,
+               "FirstAired": "May 24, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Robotic Manipulation",
+               "Episode": 64,
+               "FirstAired": "September 23, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Cruciferous Vegetable Amplification",
+               "Episode": 65,
+               "FirstAired": "September 30, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Zazzy Substitution",
+               "Episode": 66,
+               "FirstAired": "October 7, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Hot Troll Deviation",
+               "Episode": 67,
+               "FirstAired": "October 14, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Desperation Emanation",
+               "Episode": 68,
+               "FirstAired": "October 21, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Irish Pub Formulation",
+               "Episode": 69,
+               "FirstAired": "October 28, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Apology Insufficiency",
+               "Episode": 70,
+               "FirstAired": "November 4, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The 21-Second Excitation",
+               "Episode": 71,
+               "FirstAired": "November 11, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Boyfriend Complexity",
+               "Episode": 72,
+               "FirstAired": "November 18, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Alien Parasite Hypothesis",
+               "Episode": 73,
+               "FirstAired": "December 9, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Justice League Recombination",
+               "Episode": 74,
+               "FirstAired": "December 16, 2010"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Bus Pants Utilization",
+               "Episode": 75,
+               "FirstAired": "January 6, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Love Car Displacement",
+               "Episode": 76,
+               "FirstAired": "January 20, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Thespian Catalyst",
+               "Episode": 77,
+               "FirstAired": "February 3, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Benefactor Factor",
+               "Episode": 78,
+               "FirstAired": "February 10, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Cohabitation Formulation",
+               "Episode": 79,
+               "FirstAired": "February 17, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Toast Derivation",
+               "Episode": 80,
+               "FirstAired": "February 24, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Prestidigitation Approximation",
+               "Episode": 81,
+               "FirstAired": "March 10, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Zarnecki Incursion",
+               "Episode": 82,
+               "FirstAired": "March 31, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Herb Garden Germination",
+               "Episode": 83,
+               "FirstAired": "April 7, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Agreement Dissection",
+               "Episode": 84,
+               "FirstAired": "April 28, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Wildebeest Implementation",
+               "Episode": 85,
+               "FirstAired": "May 5, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Engagement Reaction",
+               "Episode": 86,
+               "FirstAired": "May 12, 2011"
+          },
+          {
+               "Season": "Season 4: 2010-2011",
+               "Title": "The Roommate Transmogrification",
+               "Episode": 87,
+               "FirstAired": "May 19, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Skank Reflex Analysis",
+               "Episode": 88,
+               "FirstAired": "September 22, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Infestation Hypothesis",
+               "Episode": 89,
+               "FirstAired": "September 22, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Pulled Groin Extrapolation",
+               "Episode": 90,
+               "FirstAired": "September 29, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Wiggly Finger Catalyst",
+               "Episode": 91,
+               "FirstAired": "October 6, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Russian Rocket Reaction",
+               "Episode": 92,
+               "FirstAired": "October 13, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Rhinitis Revelation",
+               "Episode": 93,
+               "FirstAired": "October 20, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Good Guy Fluctuation",
+               "Episode": 94,
+               "FirstAired": "October 27, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Isolation Permutation",
+               "Episode": 95,
+               "FirstAired": "November 3, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Ornithophobia Diffusion",
+               "Episode": 96,
+               "FirstAired": "November 10, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Flaming Spittoon Acquisition",
+               "Episode": 97,
+               "FirstAired": "November 17, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Speckerman Recurrence",
+               "Episode": 98,
+               "FirstAired": "December 8, 2011"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Shiny Trinket Maneuver",
+               "Episode": 99,
+               "FirstAired": "January 12, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Recombination Hypothesis",
+               "Episode": 100,
+               "FirstAired": "January 19, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Beta Test Initiation",
+               "Episode": 101,
+               "FirstAired": "January 26, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Friendship Contraction",
+               "Episode": 102,
+               "FirstAired": "February 2, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Vacation Solution",
+               "Episode": 103,
+               "FirstAired": "February 9, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Rothman Disintegration",
+               "Episode": 104,
+               "FirstAired": "February 16, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Werewolf Transformation",
+               "Episode": 105,
+               "FirstAired": "February 23, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Weekend Vortex",
+               "Episode": 106,
+               "FirstAired": "March 8, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Transporter Malfunction",
+               "Episode": 107,
+               "FirstAired": "March 29, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Hawking Excitation",
+               "Episode": 108,
+               "FirstAired": "April 5, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Stag Convergence",
+               "Episode": 109,
+               "FirstAired": "April 26, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Launch Acceleration",
+               "Episode": 110,
+               "FirstAired": "May 3, 2012"
+          },
+          {
+               "Season": "Season 5: 2011-2012",
+               "Title": "The Countdown Reflection",
+               "Episode": 111,
+               "FirstAired": "May 10, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Date Night Variable",
+               "Episode": 112,
+               "FirstAired": "September 27, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Decoupling Fluctuation",
+               "Episode": 113,
+               "FirstAired": "October 4, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Higgs Boson Observation",
+               "Episode": 114,
+               "FirstAired": "October 11, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Re-Entry Minimization",
+               "Episode": 115,
+               "FirstAired": "October 18, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Holographic Excitation",
+               "Episode": 116,
+               "FirstAired": "October 25, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Extract Obliteration",
+               "Episode": 117,
+               "FirstAired": "November 1, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Habitation Configuration",
+               "Episode": 118,
+               "FirstAired": "November 8, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The 43 Peculiarity",
+               "Episode": 119,
+               "FirstAired": "November 15, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Parking Spot Escalation",
+               "Episode": 120,
+               "FirstAired": "November 29, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Fish Guts Displacement",
+               "Episode": 121,
+               "FirstAired": "December 6, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Santa Simulation",
+               "Episode": 122,
+               "FirstAired": "December 13, 2012"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Egg Salad Equivalency",
+               "Episode": 123,
+               "FirstAired": "January 3, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Bakersfield Expedition",
+               "Episode": 124,
+               "FirstAired": "January 10, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Cooper/Kripke Inversion",
+               "Episode": 125,
+               "FirstAired": "January 31, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Spoiler Alert Segmentation",
+               "Episode": 126,
+               "FirstAired": "February 7, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Tangible Affection Proof",
+               "Episode": 127,
+               "FirstAired": "February 14, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Monster Isolation",
+               "Episode": 128,
+               "FirstAired": "February 21, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Contractual Obligation Implementation",
+               "Episode": 129,
+               "FirstAired": "March 7, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Closet Reconfiguration",
+               "Episode": 130,
+               "FirstAired": "March 14, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Tenure Turbulence",
+               "Episode": 131,
+               "FirstAired": "April 4, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Closure Alternative",
+               "Episode": 132,
+               "FirstAired": "April 25, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Proton Resurgence",
+               "Episode": 133,
+               "FirstAired": "May 2, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Love Spell Potential",
+               "Episode": 134,
+               "FirstAired": "May 9, 2013"
+          },
+          {
+               "Season": "Season 6: 2012-2013",
+               "Title": "The Bon Voyage Reaction",
+               "Episode": 135,
+               "FirstAired": "May 16, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Hofstadter Insufficiency",
+               "Episode": 136,
+               "FirstAired": "September 26, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Deception Verification",
+               "Episode": 137,
+               "FirstAired": "September 26, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Scavenger Vortex",
+               "Episode": 138,
+               "FirstAired": "October 3, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Raiders Minimization",
+               "Episode": 139,
+               "FirstAired": "October 10, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Workplace Proximity",
+               "Episode": 140,
+               "FirstAired": "October 17, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Romance Resonance",
+               "Episode": 141,
+               "FirstAired": "October 24, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Proton Displacement",
+               "Episode": 142,
+               "FirstAired": "November 7, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Itchy Brain Simulation",
+               "Episode": 143,
+               "FirstAired": "November 14, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Thanksgiving Decoupling",
+               "Episode": 144,
+               "FirstAired": "November 21, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Discovery Dissipation",
+               "Episode": 145,
+               "FirstAired": "December 5, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Cooper Extraction",
+               "Episode": 146,
+               "FirstAired": "December 12, 2013"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Hesitation Ramification",
+               "Episode": 147,
+               "FirstAired": "January 2, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Occupation Recalibration",
+               "Episode": 148,
+               "FirstAired": "January 9, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Convention Conundrum",
+               "Episode": 149,
+               "FirstAired": "January 30, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Locomotive Manipulation",
+               "Episode": 150,
+               "FirstAired": "February 6, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Table Polarization",
+               "Episode": 151,
+               "FirstAired": "February 27, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Friendship Turbulence",
+               "Episode": 152,
+               "FirstAired": "March 6, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Mommy Observation",
+               "Episode": 153,
+               "FirstAired": "March 13, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Indecision Amalgamation",
+               "Episode": 154,
+               "FirstAired": "April 3, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Relationship Diremption",
+               "Episode": 155,
+               "FirstAired": "April 10, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Anything Can Happen Recurrence",
+               "Episode": 156,
+               "FirstAired": "April 24,\u00a02014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Proton Transmogrification",
+               "Episode": 157,
+               "FirstAired": "May 1, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Gorilla Dissolution",
+               "Episode": 158,
+               "FirstAired": "May 8, 2014"
+          },
+          {
+               "Season": "Season 7: 2013-2014",
+               "Title": "The Status Quo Combustion",
+               "Episode": 159,
+               "FirstAired": "May 15, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Locomotion Interruption",
+               "Episode": 160,
+               "FirstAired": "September 22, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Junior Professor Solution",
+               "Episode": 161,
+               "FirstAired": "September 22, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The First Pitch Insufficiency",
+               "Episode": 162,
+               "FirstAired": "September 29, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Hook-up Reverberation",
+               "Episode": 163,
+               "FirstAired": "October 6, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Focus Attenuation",
+               "Episode": 164,
+               "FirstAired": "October 13, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Expedition Approximation",
+               "Episode": 165,
+               "FirstAired": "October 20, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Misinterpretation Agitation",
+               "Episode": 166,
+               "FirstAired": "October 30, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Prom Equivalency",
+               "Episode": 167,
+               "FirstAired": "November 6, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Septum Deviation",
+               "Episode": 168,
+               "FirstAired": "November 13, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Champagne Reflection",
+               "Episode": 169,
+               "FirstAired": "November 20, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Clean Room Infiltration",
+               "Episode": 170,
+               "FirstAired": "December 11, 2014"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Space Probe Disintegration",
+               "Episode": 171,
+               "FirstAired": "January 8, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Anxiety Optimization",
+               "Episode": 172,
+               "FirstAired": "January 29, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Troll Manifestation",
+               "Episode": 173,
+               "FirstAired": "February 5, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Comic Book Store Regeneration",
+               "Episode": 174,
+               "FirstAired": "February 19, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Intimacy Acceleration",
+               "Episode": 175,
+               "FirstAired": "February 26, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Colonization Application",
+               "Episode": 176,
+               "FirstAired": "March 5, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Leftover Thermalization",
+               "Episode": 177,
+               "FirstAired": "March 12, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Skywalker Incursion",
+               "Episode": 178,
+               "FirstAired": "April 2, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Fortification Implementation",
+               "Episode": 179,
+               "FirstAired": "April 9, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Communication Deterioration",
+               "Episode": 180,
+               "FirstAired": "April 16, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Graduation Transmission",
+               "Episode": 181,
+               "FirstAired": "April 23, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Maternal Combustion",
+               "Episode": 182,
+               "FirstAired": "April 30, 2015"
+          },
+          {
+               "Season": "Season 8: 2014-2015",
+               "Title": "The Commitment Determination",
+               "Episode": 183,
+               "FirstAired": "May 7, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Matrimonial Momentum",
+               "Episode": 184,
+               "FirstAired": "September 21, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Separation Oscillation",
+               "Episode": 185,
+               "FirstAired": "September 28, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Bachelor Party Corrosion",
+               "Episode": 186,
+               "FirstAired": "October 5, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The 2003 Approximation",
+               "Episode": 187,
+               "FirstAired": "October 12, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Perspiration Implementation",
+               "Episode": 188,
+               "FirstAired": "October 19, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Helium Insufficiency",
+               "Episode": 189,
+               "FirstAired": "October 26, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Spock Resonance",
+               "Episode": 190,
+               "FirstAired": "November 5, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Mystery Date Observation",
+               "Episode": 191,
+               "FirstAired": "November 12, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Platonic Permutation",
+               "Episode": 192,
+               "FirstAired": "November 19, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Earworm Reverberation",
+               "Episode": 193,
+               "FirstAired": "December 10, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Opening Night Excitation",
+               "Episode": 194,
+               "FirstAired": "December 17, 2015"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Sales Call Sublimation",
+               "Episode": 195,
+               "FirstAired": "January 7, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Empathy Optimization",
+               "Episode": 196,
+               "FirstAired": "January 14, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Meemaw Materialization",
+               "Episode": 197,
+               "FirstAired": "February 4, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Valentino Submergence",
+               "Episode": 198,
+               "FirstAired": "February 11, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Positive Negative Reaction",
+               "Episode": 199,
+               "FirstAired": "February 18, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Celebration Experimentation",
+               "Episode": 200,
+               "FirstAired": "February 25, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Application Deterioration",
+               "Episode": 201,
+               "FirstAired": "March 10, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Solder Excursion Diversion",
+               "Episode": 202,
+               "FirstAired": "March 31, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Big Bear Precipitation",
+               "Episode": 203,
+               "FirstAired": "April 7, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Viewing Party Combustion",
+               "Episode": 204,
+               "FirstAired": "April 21, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Fermentation Bifurcation",
+               "Episode": 205,
+               "FirstAired": "April 28, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Line Substitution Solution",
+               "Episode": 206,
+               "FirstAired": "May 5, 2016"
+          },
+          {
+               "Season": "Season 9: 2015-2016",
+               "Title": "The Convergence-Convergence",
+               "Episode": 207,
+               "FirstAired": "May 12, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Conjugal Conjecture",
+               "Episode": 208,
+               "FirstAired": "September 19, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Military Miniaturization",
+               "Episode": 209,
+               "FirstAired": "September 26, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Dependence Transcendence",
+               "Episode": 210,
+               "FirstAired": "October 3, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Cohabitation Experimentation",
+               "Episode": 211,
+               "FirstAired": "October 10, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Hot Tub Contamination",
+               "Episode": 212,
+               "FirstAired": "October 17, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Fetal Kick Catalyst",
+               "Episode": 213,
+               "FirstAired": "October 27, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Veracity Elasticity",
+               "Episode": 214,
+               "FirstAired": "November 3, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Brain Bowl Incubation",
+               "Episode": 215,
+               "FirstAired": "November 10, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Geology Elevation",
+               "Episode": 216,
+               "FirstAired": "November 17, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Property Division Collision",
+               "Episode": 217,
+               "FirstAired": "December 1, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Birthday Synchronicity",
+               "Episode": 218,
+               "FirstAired": "December 15, 2016"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Holiday Summation",
+               "Episode": 219,
+               "FirstAired": "January 5, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Romance Recalibration",
+               "Episode": 220,
+               "FirstAired": "January 19, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Emotion Detection Automation",
+               "Episode": 221,
+               "FirstAired": "February 2, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Locomotion Reverberation",
+               "Episode": 222,
+               "FirstAired": "February 9, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Allowance Evaporation",
+               "Episode": 223,
+               "FirstAired": "February 16, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Comic-Con Conundrum",
+               "Episode": 224,
+               "FirstAired": "February 23, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Escape Hatch Identification",
+               "Episode": 225,
+               "FirstAired": "March 9, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Collaboration Fluctuation",
+               "Episode": 226,
+               "FirstAired": "March 30, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Recollection Dissipation",
+               "Episode": 227,
+               "FirstAired": "April 6, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Separation Agitation",
+               "Episode": 228,
+               "FirstAired": "April 13, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Cognition Regeneration",
+               "Episode": 229,
+               "FirstAired": "April 27, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Gyroscopic Collapse",
+               "Episode": 230,
+               "FirstAired": "May 4, 2017"
+          },
+          {
+               "Season": "Season 10: 2016-2017",
+               "Title": "The Long Distance Dissonance",
+               "Episode": 231,
+               "FirstAired": "May 11, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Proposal Proposal",
+               "Episode": 232,
+               "FirstAired": "September 25, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Retraction Reaction",
+               "Episode": 233,
+               "FirstAired": "October 2, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Relaxation Integration",
+               "Episode": 234,
+               "FirstAired": "October 9, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Explosion Implosion",
+               "Episode": 235,
+               "FirstAired": "October 16, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Collaboration Contamination",
+               "Episode": 236,
+               "FirstAired": "October 23, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Proton Regeneration",
+               "Episode": 237,
+               "FirstAired": "November 2, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Geology Methodology",
+               "Episode": 238,
+               "FirstAired": "November 9, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Tesla Recoil",
+               "Episode": 239,
+               "FirstAired": "November 16, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Bitcoin Entanglement",
+               "Episode": 240,
+               "FirstAired": "November 30, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Confidence Erosion",
+               "Episode": 241,
+               "FirstAired": "December 7, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Celebration Experimentation",
+               "Episode": 242,
+               "FirstAired": "December 14, 2017"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Matrimonial Metric",
+               "Episode": 243,
+               "FirstAired": "January 4, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Solo Oscillation",
+               "Episode": 244,
+               "FirstAired": "January 11, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Separation Triangulation",
+               "Episode": 245,
+               "FirstAired": "January 18, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Novelization Correlation",
+               "Episode": 246,
+               "FirstAired": "February 1, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Neonatal Nomenclature",
+               "Episode": 247,
+               "FirstAired": "March 1, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Athenaeum Allocation",
+               "Episode": 248,
+               "FirstAired": "March 8, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Gates Excitation",
+               "Episode": 249,
+               "FirstAired": "March 29, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Tenant Disassociation",
+               "Episode": 250,
+               "FirstAired": "April 5, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Reclusive Potential",
+               "Episode": 251,
+               "FirstAired": "April 12, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Comet Polarization",
+               "Episode": 252,
+               "FirstAired": "April 19, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Monetary Insufficiency",
+               "Episode": 253,
+               "FirstAired": "April 26, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Sibling Realignment",
+               "Episode": 254,
+               "FirstAired": "May 3, 2018"
+          },
+          {
+               "Season": "Season 11: 2017-2018",
+               "Title": "The Bow Tie Asymmetry",
+               "Episode": 255,
+               "FirstAired": "May 10, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Conjugal Configuration",
+               "Episode": 256,
+               "FirstAired": "September 24, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Wedding Gift Wormhole",
+               "Episode": 257,
+               "FirstAired": "October 1, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Procreation Calculation",
+               "Episode": 258,
+               "FirstAired": "October 8, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Tam Turbulence",
+               "Episode": 259,
+               "FirstAired": "October 15, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Planetarium Collision",
+               "Episode": 260,
+               "FirstAired": "October 22, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Imitation Perturbation",
+               "Episode": 261,
+               "FirstAired": "October 29, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Grant Allocation Derivation",
+               "Episode": 262,
+               "FirstAired": "November 1, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Consummation Deviation",
+               "Episode": 263,
+               "FirstAired": "November 8, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Citation Negation",
+               "Episode": 264,
+               "FirstAired": "November 15, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The VCR Illumination",
+               "Episode": 265,
+               "FirstAired": "December 6, 2018"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Paintball Scattering",
+               "Episode": 266,
+               "FirstAired": "January 3, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Propagation Proposition",
+               "Episode": 267,
+               "FirstAired": "January 10, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Confirmation Polarization",
+               "Episode": 268,
+               "FirstAired": "January 17, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Meteorite Manifestation",
+               "Episode": 269,
+               "FirstAired": "January 31, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Donation Oscillation",
+               "Episode": 270,
+               "FirstAired": "February 7, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The D & D Vortex",
+               "Episode": 271,
+               "FirstAired": "February 21, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Conference Valuation",
+               "Episode": 272,
+               "FirstAired": "March 7, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Laureate Accumulation",
+               "Episode": 273,
+               "FirstAired": "April 4, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Inspiration Deprivation",
+               "Episode": 274,
+               "FirstAired": "April 18, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Decision Reverberation",
+               "Episode": 275,
+               "FirstAired": "April 25, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Plagiarism Schism",
+               "Episode": 276,
+               "FirstAired": "May 2, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Maternal Conclusion",
+               "Episode": 277,
+               "FirstAired": "May 9, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Change Constant",
+               "Episode": 278,
+               "FirstAired": "May 16, 2019"
+          },
+          {
+               "Season": "Season 12: 2018-2019",
+               "Title": "The Stockholm Syndrome",
+               "Episode": 279,
+               "FirstAired": "May 16, 2019"
+          }
+     ]
+}
